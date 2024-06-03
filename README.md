@@ -1,2 +1,2 @@
 # pimpd
-PimpD is a Music Player Daemon. The music player for command line people.
+PimpD is a Music Player Daemon. A music player for command line people.
